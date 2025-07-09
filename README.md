@@ -1,1 +1,0 @@
-# function-app-java-simple-api
